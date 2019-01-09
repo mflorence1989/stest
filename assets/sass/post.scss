@@ -14,6 +14,65 @@
       height: 150px;
       background: white;
       border: 1px solid grey;
+      .fas{
+        color: grey;
+        position: absolute;
+        padding-left: 12px;
+        font-size: 20px;
+        top: 108px;
+      }
+      .rightside{
+        position: absolute;
+        left: 171px;
+        top: 105px;
+        background:    #3d85c6;
+        background:    blue;
+        border-radius: 1000px;
+        padding:       8px 20px;
+        color:         #ffffff;
+        display:       inline-block;
+        font:          normal 700 13px/1 "Calibri", sans-serif;
+        text-align:    center;
+        text-shadow:   none;
+      }
+      h3{
+        position: absolute;
+        left: 70px;
+        top: 112px;
+        font-size: 15px;
+
+      }
+      p{
+        position: relative;
+        top: 46px;
+        left: 8px;
+        font-size: 14px;
+        line-height: 1.5em;
+      }
+      #calendar{
+        font-size: 20px;
+        top: 214px;
+        position: absolute;
+        padding-left: 12px;
+      }
+      .date{
+        font-size: 12px;
+        left: 70px;
+        top: 221px;
+      }
+      #people{
+        font-size: 20px;
+        position: absolute;
+        top: 215px;
+        left: 164px;
+      }
+      .bottom-numbers{
+        font-size: 12px;
+
+        top: 221px;
+        left: 192px;
+
+      }
 
     }
     .box-2{
@@ -23,6 +82,65 @@
       height: 150px;
       background: white;
       border: 2px solid grey;
+      .fas{
+        color: grey;
+        position: absolute;
+        padding-left: 12px;
+        font-size: 20px;
+        top: 108px;
+      }
+      .rightside{
+        position: absolute;
+        left: 403px;
+        top: 105px;
+        background: #3d85c6;
+        background:    blue;
+        border-radius: 1000px;
+        padding:       8px 20px;
+        color:         #ffffff;
+        display:       inline-block;
+        font:          normal 700 13px/1 "Calibri", sans-serif;
+        text-align:    center;
+        text-shadow:   none;
+      }
+      h3{
+        position: absolute;
+        left: 328px;
+        top: 112px;
+        font-size: 15px;
+
+      }
+      p{
+        position: relative;
+        top: 46px;
+        left: 8px;
+        font-size: 14px;
+        line-height: 1.5em;
+      }
+      #calendar{
+        font-size: 20px;
+        top: 214px;
+        position: absolute;
+        padding-left: 12px;
+      }
+      .date{
+        font-size: 12px;
+        left: 328px;
+        top: 221px;
+      }
+      #people{
+        font-size: 20px;
+        position: absolute;
+        top: 215px;
+        left: 419px;
+      }
+      .bottom-numbers{
+        font-size: 12px;
+
+        top: 221px;
+        left: 444px;
+
+      }
     }
     .box-3{
       margin-bottom: 10px;
