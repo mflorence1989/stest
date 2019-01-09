@@ -1,0 +1,159 @@
+header{
+  padding:35px;
+  border-bottom: solid 2px grey;
+  .logo{
+
+    text-align: center;
+    background: blue;
+    color: white;
+    text-transform: uppercase;
+    float: left;
+    margin-right: 50px;
+    width: 90px;
+    height: 25px;
+    position: relative;
+    a {
+      text-align: center;
+      color:white;
+      top: 8px;
+      right: 9px;
+      font-size: .8rem;
+      position: absolute;
+
+    }
+
+  }
+  .logo .material-icons{
+    position: absolute;
+    right: 64px;
+    top: 1px;
+  }
+
+  .header-menu{
+    float: left;
+    padding-top: 5px;
+    a{
+      text-transform: uppercase;
+      padding:10px;
+    }
+    .live{
+      span{
+        font-size: 0.6rem;
+        position: absolute;
+        left: 217px;
+        top: 41px;
+
+      }
+    }
+    .schedule{
+      span{
+        font-size: 0.6rem;
+        position: absolute;
+        top: 42px;
+
+      }
+    }
+    .past{
+      span{
+        font-size: 0.6rem;
+        position: absolute;
+        top: 42px;
+
+      }
+    }
+    .draft {
+      span{
+        font-size: 0.6rem;
+        position: absolute;
+        top: 42px;
+
+      }
+    }
+    .all{
+      span{
+        font-size: 0.6rem;
+        position: absolute;
+        top: 42px;
+        left: 508px;
+      }
+    }
+
+  }
+
+
+
+
+
+
+
+  .header-icons{
+    float: right;
+    display: flex;
+    padding-top: 5px;
+    .left-icons{
+      position: relative;
+      right: 104px;
+      #search{
+        right: 55px;
+        position: absolute;
+        font-size: 2rem;
+        top: -7px;
+
+      }
+      #filter{
+        opacity: .4;
+        position: absolute;
+        font-size: 2rem;
+        right: 14px;
+        top: -7px;
+        color: grey;
+
+      }
+
+    }
+    .circle{
+
+            height: 10px;
+            position: relative;
+            width: 10px;
+            background-color: blue;
+            border-radius: 50%;
+            display: inline-block;
+            top: -6px;
+            right: 120px;
+
+    }
+    .number{
+      color: white;
+      right: 3px;
+      position: absolute;
+      font-size: .6rem;
+      font-weight: 600;
+    }
+    .line{
+      vertical-align: top;
+      background: grey;
+      height: 20px;
+      width: 3px;
+      right: 139px;
+      position: absolute;
+
+    }
+    .right-icons{
+        position: relative;
+        right: 57px;
+        }
+        .right-icons  #stream{
+          font-size: 2rem;
+              top: -6px;
+              right: -2px;
+              position: absolute;
+          }
+          .right-icons #module{
+            font-size: 2rem;
+            position: absolute;
+            top: -6px;
+            }
+  }
+
+}
