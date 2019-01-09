@@ -28,26 +28,28 @@
         background:    #3d85c6;
         background:    blue;
         border-radius: 1000px;
-        padding:       8px 20px;
+        padding:       5px 18px;
         color:         #ffffff;
         display:       inline-block;
-        font:          normal 700 13px/1 "Calibri", sans-serif;
+        font:          normal 700 12px/1 "Calibri", sans-serif;
         text-align:    center;
         text-shadow:   none;
+        text-transform: uppercase;
       }
       h3{
         position: absolute;
         left: 70px;
         top: 112px;
-        font-size: 15px;
+        font-size: 12px;
 
       }
       p{
         position: relative;
         top: 46px;
-        left: 8px;
-        font-size: 14px;
+        left: 17px;
+        font-size: 13px;
         line-height: 1.5em;
+        font-weight: 500;
       }
       #calendar{
         font-size: 20px;
@@ -56,7 +58,7 @@
         padding-left: 12px;
       }
       .date{
-        font-size: 12px;
+        font-size: 10px;
         left: 70px;
         top: 221px;
       }
@@ -67,7 +69,7 @@
         left: 164px;
       }
       .bottom-numbers{
-        font-size: 12px;
+        font-size: 10px;
 
         top: 221px;
         left: 192px;
@@ -91,30 +93,33 @@
       }
       .rightside{
         position: absolute;
-        left: 403px;
+        left: 398px;
         top: 105px;
         background: #3d85c6;
         background:    blue;
         border-radius: 1000px;
-        padding:       8px 20px;
+        padding:       5px 18px;
         color:         #ffffff;
         display:       inline-block;
-        font:          normal 700 13px/1 "Calibri", sans-serif;
+        font:          normal 700 12px/1 "Calibri", sans-serif;
         text-align:    center;
         text-shadow:   none;
+        text-transform: uppercase;
       }
       h3{
         position: absolute;
         left: 328px;
         top: 112px;
-        font-size: 15px;
+        font-size: 12px;
+
 
       }
       p{
         position: relative;
         top: 46px;
-        left: 8px;
-        font-size: 14px;
+        left: 15px;
+        font-weight: 500;
+        font-size: 13px;
         line-height: 1.5em;
       }
       #calendar{
@@ -124,7 +129,7 @@
         padding-left: 12px;
       }
       .date{
-        font-size: 12px;
+        font-size: 10px;
         left: 328px;
         top: 221px;
       }
@@ -135,7 +140,7 @@
         left: 419px;
       }
       .bottom-numbers{
-        font-size: 12px;
+        font-size: 10px;
 
         top: 221px;
         left: 444px;
